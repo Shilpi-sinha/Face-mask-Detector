@@ -1,0 +1,2 @@
+# Face-mask-Detector
+Face-mask Detector project using Convolutional Neural Networks(CNN),opencv and Tensorflow/Keras .It is divided into three parts:preprocessing,training the CNN model and Mask detecting.First we preprocess the dataset and then model is trained using the dataset,best model is selected among them and finally using opencv we captured the video and detected where the person is wearing mask or not.
